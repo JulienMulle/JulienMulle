@@ -1,7 +1,4 @@
-# 👋 Hello, je suis Julien et bienvenue sur mon profil
 
-### Je suis développeur fullstack JavaScript spécialisé en React. J’ai concentré mes compétences en Frontend, mais je suis tout à fait capable de travailler sur des projets Backend avec Firebase, MongoDB ou NodeJS & PostgreSQL.
-# Technologies
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
